@@ -4,12 +4,13 @@ The work explores how physics, control, and environmental factors interact to sh
 
 Analyses include:
 
-Descriptive statistics (mean, RMS, standard deviation) of blade root loads
+  Descriptive statistics (mean, RMS, standard deviation) of blade root loads
 
-Frequency-domain (PSD) analysis to identify dominant load frequencies
+  Frequency-domain (PSD) analysis to identify dominant load frequencies
 
-Gust detection through sliding-window derivatives of wind and load signals
+  Gust detection through sliding-window derivatives of wind and load signals
 
-Fatigue analysis using rainflow counting and Miner’s rule
+  Fatigue analysis using rainflow counting and Miner’s rule
 
 The project demonstrates how engineering principles and data analytics combine to support condition monitoring, predictive maintenance, and structural health assessment of wind turbine systems.
+For dataset used in the study- https://zenodo.org/records/8230330 
